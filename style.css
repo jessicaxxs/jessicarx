@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    color: rgb(98, 201, 57);
+    background-color: green;
+}
+
+.titulo {
+    font-family: monospace;
+    color: aliceblue;
+}
+
+.subtitulo {
+    font-family: monospace;
+    color: aliceblue;
+}
